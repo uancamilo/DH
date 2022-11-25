@@ -1,0 +1,23 @@
+Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contestarlas en conjunto:
+
+Tanto para el ejercicio 1 como para el ejercicio 2, describan con tus palabras lo que acaban de hacer.
+
+Siguiendo las instrucciones del archivo pdf procionado en playground se creo una maquina virtual con Vagrant que nos 
+permitio configurar maquinas virtuales en VirtualBox de una forma mas rapida y dinamica. 
+
+Describan con sus palabras cuál es la utilidad que se imaginan implementando Vagrant como herramienta.
+
+Ahorro de tiempo para crear un entorno de desarrollo.
+Faciliada para instalar un SO y un Servidor en un ambiente virtual controlado
+
+Determinen, de manera aproximada, cuánto tiempo demoraron en instanciar una VM con VirtualBox 
+y luego esa configuración similar con Vagrant.
+
+Con VirtualBox nos tardamos aproximadamente 30 min y con Vagrant aproximada 10 min
+
+Modifiquen una vez más el Vagrantfile, creen un HTML en sus máquinas 
+(de manera sencilla, sino pueden tomar el código completo de este HTML), 
+nombrarlo como index.html, guardarlo en la misma carpeta que el Vagrantfile 
+y luego agregamos las siguientes líneas
+
+

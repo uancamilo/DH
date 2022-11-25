@@ -1,0 +1,12 @@
+Log created: 2022-10-27T23:22:45.593931000Z
+Process ID:  7763 (0x1e53)
+Parent PID:  1012 (0x3f4)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: Vagrant_server_1666287788038_58218
+Arg[3]: --startvm
+Arg[4]: 2a45ef4b-4131-4645-b330-2f31911c96f6
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2
